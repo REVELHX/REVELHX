@@ -1,7 +1,6 @@
 [![MasterHead](https://i.imgur.com/b9uUP8Z.png)](https://discord.gg/e5HAdnAJXD)
 <h1 align="center">Hi 🚀, I'm REVEL</h1>
 <h3 align="center">A Portuguese Frontend/Backend developer on CFX.RE Plataform</h3>
-<img align="right" alt="RevelLogo" width="400" src="https://i.imgur.com/OpC1jDf.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revelhx&label=Profile%20views&color=0e75b6&style=flat" alt="revelhx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revelhx" alt="revelhx" /></a> </p>
