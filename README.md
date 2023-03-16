@@ -1,17 +1,17 @@
 [![MasterHead](https://i.imgur.com/b9uUP8Z.png)](https://discord.gg/e5HAdnAJXD)
-<h1 align="center">Hi 🚀, I'm REVEL</h1>
+<h1 align="center">REVEL DEV</h1>
 <h3 align="center">A Portuguese Frontend/Backend developer on CFX.RE Plataform</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revelhx&label=Profile%20views&color=0e75b6&style=flat" alt="revelhx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revelhx" alt="revelhx" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,VueJS,C#**
+- 🌱 I’m currently learning: **ReactJS,VueJS,C#**
 
-- 👨‍💻 My Discord [https://discord.gg/e5HAdnAJXD](https://discord.gg/e5HAdnAJXD)
+- 👨‍💻 My Discord: [https://discord.gg/e5HAdnAJXD](https://discord.gg/e5HAdnAJXD)
 
-- 📫 How to reach me **REVEL#9948**
+- 📫 How to reach me: **REVEL#9948**
 
-- 📄 About me **Hello, my name is Mauro, most people around me know me as REVEL, I entered this world of programming in 2018 at fiveM and until today I have only developed scripts and participated in projects at fiveM, I started learning FrontEnd at 2 years and I have expanded my knowledge ever since.**
+- 📄 About me: **Hello, my name is Mauro, most people around me know me as REVEL, I entered this world of programming in 2018 at fiveM and until today I have only developed scripts and participated in projects at fiveM, I started learning FrontEnd at 2 years and I have expanded my knowledge ever since.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
