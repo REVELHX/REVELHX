@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/b9uUP8Z.png)](https://discord.gg/e5HAdnAJXD)
+[![MasterHead]([https://i.imgur.com/b9uUP8Z.png](https://i.imgur.com/pjriqkv.png))](https://discord.gg/e5HAdnAJXD)
 <h1 align="center">REVEL DEV</h1>
 <h3 align="center">A Portuguese Frontend/Backend developer on CFX.RE Plataform</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revelhx&label=Profile%20views&color=0e75b6&style=flat" alt="revelhx" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Discord: [https://discord.gg/e5HAdnAJXD](https://discord.gg/e5HAdnAJXD)
 
-- 📫 How to reach me: **REVEL#9948**
+- 📫 talk to me on discord: **reveldev**
 
 - 📄 About me: **Hello, my name is Mauro, most people around me know me as REVEL, I entered this world of programming in 2018 at fiveM and until today I have only developed scripts and participated in projects at fiveM, I started learning FrontEnd at 2 years and I have expanded my knowledge ever since.**
 
