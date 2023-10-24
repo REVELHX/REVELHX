@@ -1,4 +1,5 @@
-![MasterHead](https://[[i.imgur.com/pjriqkv.png])
+![image](https://github.com/REVELHX/REVELHX/assets/64117754/b6fd8e6b-0637-400c-bc72-f5112a4cd62f)
+
 <h1 align="center">REVEL DEV</h1>
 <h3 align="center">A Portuguese Frontend/Backend developer on CFX.RE Plataform</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revelhx&label=Profile%20views&color=0e75b6&style=flat" alt="revelhx" /> </p>
