@@ -1,4 +1,4 @@
-![image](https://github.com/REVELHX/REVELHX/assets/64117754/b6fd8e6b-0637-400c-bc72-f5112a4cd62f)
+![image](https://i.imgur.com/HtU0SCg.png)
 
 <h1 align="center">REVEL DEV</h1>
 <h3 align="center">A Portuguese Frontend/Backend developer on CFX.RE Plataform</h3>
