@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/HtU0SCg.png)
+![image](https://i.imgur.com/CHVVq2u.png)
 
 <h1 align="center">REVEL DEV</h1>
 <h3 align="center">A Portuguese Frontend/Backend developer on CFX.RE Plataform</h3>
