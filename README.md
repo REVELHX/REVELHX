@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revelhx" alt="revelhx" /></a> </p>
 
-- 🌱 I’m currently learning: **ReactJS,VueJS,C#**
+- Learning: **ReactJS,VueJS,C#**
 
-- 👨‍💻 My Discord: [https://discord.gg/e5HAdnAJXD](https://discord.gg/e5HAdnAJXD)
+- My Discord: [https://discord.gg/e5HAdnAJXD](https://discord.gg/e5HAdnAJXD)
 
-- 📫 talk to me on discord: **reveldev**
+- Talk to me on discord: **reveldev**
 
-- 📄 About me: **Hello, my name is Mauro, most people around me know me as REVEL, I entered this world of programming in 2018 at fiveM and until today I have only developed scripts and participated in projects at fiveM, I started learning FrontEnd at 2 years and I have expanded my knowledge ever since.**
+**Hello! My name is Mauro, but most people know me as REVEL. I started my programming journey in 2018 through FiveM, where I’ve been actively developing scripts and contributing to various projects ever since. Around two years ago, I began learning Front-End development and have been steadily expanding my skills and knowledge in that area.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
